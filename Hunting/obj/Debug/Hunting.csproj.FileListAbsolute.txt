@@ -1,0 +1,56 @@
+E:\Hunting\Hunting\bin\Debug\Hunting.exe.config
+E:\Hunting\Hunting\bin\Debug\Hunting.exe
+E:\Hunting\Hunting\bin\Debug\Hunting.pdb
+E:\Hunting\Hunting\obj\Debug\Hunting.csprojResolveAssemblyReference.cache
+E:\Hunting\Hunting\obj\Debug\Hunting.Form1.resources
+E:\Hunting\Hunting\obj\Debug\Hunting.Properties.Resources.resources
+E:\Hunting\Hunting\obj\Debug\Hunting.csproj.GenerateResource.Cache
+E:\Hunting\Hunting\obj\Debug\Hunting.exe
+E:\Hunting\Hunting\obj\Debug\Hunting.pdb
+E:\Hunting\Hunting\obj\Debug\Hunting.Resource1.resources
+E:\Hunting\Hunting\obj\Debug\Hunting.Resource2.resources
+E:\Hunting\Hunting\obj\Debug\Hunting.Form2.resources
+E:\Hunting\Hunting\obj\Debug\Hunting.Form3.resources
+E:\Hunting\Hunting\bin\Debug\Interop.WMPLib.dll
+E:\Hunting\Hunting\bin\Debug\AxInterop.WMPLib.dll
+E:\Hunting\Hunting\obj\Debug\Interop.WMPLib.dll
+E:\Hunting\Hunting\obj\Debug\AxInterop.WMPLib.dll
+E:\Hunting\Hunting\obj\Debug\Hunting.csproj.ResolveComReference.cache
+G:\Hunting\Hunting\bin\Debug\Hunting.exe.config
+G:\Hunting\Hunting\obj\Debug\Interop.WMPLib.dll
+G:\Hunting\Hunting\obj\Debug\AxInterop.WMPLib.dll
+G:\Hunting\Hunting\obj\Debug\Hunting.csproj.ResolveComReference.cache
+G:\Hunting\Hunting\obj\Debug\Hunting.exe
+G:\Hunting\Hunting\obj\Debug\Hunting.pdb
+G:\Hunting\Hunting\bin\Debug\Hunting.exe
+G:\Hunting\Hunting\bin\Debug\Hunting.pdb
+G:\Hunting\Hunting\bin\Debug\Interop.WMPLib.dll
+G:\Hunting\Hunting\bin\Debug\AxInterop.WMPLib.dll
+G:\Hunting\Hunting\obj\Debug\Hunting.csprojResolveAssemblyReference.cache
+G:\Hunting\Hunting\obj\Debug\Hunting.Form1.resources
+G:\Hunting\Hunting\obj\Debug\Hunting.Form2.resources
+G:\Hunting\Hunting\obj\Debug\Hunting.Form3.resources
+G:\Hunting\Hunting\obj\Debug\Hunting.Properties.Resources.resources
+G:\Hunting\Hunting\obj\Debug\Hunting.Resource1.resources
+G:\Hunting\Hunting\obj\Debug\Hunting.Resource2.resources
+G:\Hunting\Hunting\obj\Debug\Hunting.csproj.GenerateResource.Cache
+E:\Hunting\Hunting\obj\Debug\Hunting.Form4.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\bin\Debug\Hunting.exe.config
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.csproj.ResolveComReference.cache
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.exe
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.pdb
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\bin\Debug\Hunting.exe
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\bin\Debug\Hunting.pdb
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.csprojResolveAssemblyReference.cache
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Form1.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Form2.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Form3.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Form4.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Properties.Resources.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Resource1.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.Resource2.resources
+C:\Users\Alta\Documents\Thumb Drive Backup\USB30FD\Hunting\Hunting\obj\Debug\Hunting.csproj.GenerateResource.Cache
